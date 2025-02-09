@@ -1,0 +1,6 @@
+@Strategy.AI_HostAddress = http://localhost:5217
+
+GET {{Strategy.AI_HostAddress}}/ai/
+Accept: application/json
+
+###

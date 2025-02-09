@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Strategy.AI/obj
+/Strategy.AI/.vs
+/Strategy.AI/bin/Debug/net9.0
+/.vs
